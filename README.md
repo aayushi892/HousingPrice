@@ -8,7 +8,6 @@ Here’s a more creative README file for your house price prediction project, in
 
 Welcome to the House Price Prediction project! This endeavor leverages regression techniques to estimate house prices based on various features, helping buyers and real estate professionals make informed decisions in the competitive housing market. By using advanced algorithms, we uncover the hidden patterns that drive property values.
 
-![House Price Prediction](images/house-price-prediction.png)
 
 ## 🎯 Objectives
 
@@ -26,7 +25,7 @@ Welcome to the House Price Prediction project! This endeavor leverages regressio
 
 ## 📊 Dataset
 
-The dataset used in this project is sourced from [insert source, e.g., Kaggle, UCI Machine Learning Repository] and contains the following features:
+The dataset used  contains the following features:
 
 | Feature          | Description                             |
 |------------------|-----------------------------------------|
@@ -37,7 +36,6 @@ The dataset used in this project is sourced from [insert source, e.g., Kaggle, U
 | **Garage**       | Presence and size of a garage           |
 | **Price**        | Target variable (market price of the house) |
 
-![Sample Data Visualization](images/sample-data-visualization.png)
 
 ## 🛠️ Installation
 
@@ -74,7 +72,7 @@ To make predictions on new data, use:
 python predict.py --data new_house_data.csv
 ```
 
-![Model Training Process](images/model-training-process.png)
+
 
 ## 📈 Results
 
@@ -85,15 +83,13 @@ The results of our model evaluation, including performance metrics and visualiza
   - MSE: 500000000
   - R-squared: 0.85
 
-![Performance Metrics Visualization](images/performance-metrics.png)
 
 - **Feature Importance**: Discover which features most influence house prices.
 
-![Feature Importance Graph](images/feature-importance.png)
+
 
 - **Prediction Visualizations**: Compare predicted prices vs. actual prices.
 
-![Predicted vs Actual Prices](images/predicted-vs-actual.png)
 
 ## 🔮 Future Work
 
